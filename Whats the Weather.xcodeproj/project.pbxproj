@@ -12,6 +12,7 @@
 		0FF78EAE1CE2CAA9001E48CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FF78EAC1CE2CAA9001E48CE /* Main.storyboard */; };
 		0FF78EB01CE2CAA9001E48CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FF78EAF1CE2CAA9001E48CE /* Assets.xcassets */; };
 		0FF78EB31CE2CAA9001E48CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FF78EB11CE2CAA9001E48CE /* LaunchScreen.storyboard */; };
+		0FF78EBB1CE2CC88001E48CE /* weatherApp.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0FF78EBA1CE2CC88001E48CE /* weatherApp.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0FF78EAF1CE2CAA9001E48CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FF78EB21CE2CAA9001E48CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FF78EB41CE2CAA9001E48CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FF78EBA1CE2CC88001E48CE /* weatherApp.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weatherApp.jpeg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0FF78EAF1CE2CAA9001E48CE /* Assets.xcassets */,
 				0FF78EB11CE2CAA9001E48CE /* LaunchScreen.storyboard */,
 				0FF78EB41CE2CAA9001E48CE /* Info.plist */,
+				0FF78EBA1CE2CC88001E48CE /* weatherApp.jpeg */,
 			);
 			path = "Whats the Weather";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FF78EBB1CE2CC88001E48CE /* weatherApp.jpeg in Resources */,
 				0FF78EB31CE2CAA9001E48CE /* LaunchScreen.storyboard in Resources */,
 				0FF78EB01CE2CAA9001E48CE /* Assets.xcassets in Resources */,
 				0FF78EAE1CE2CAA9001E48CE /* Main.storyboard in Resources */,
